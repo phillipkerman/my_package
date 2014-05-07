@@ -1,2 +1,2 @@
 my_package
-added to master
+line 1: modifed in master
