@@ -7,6 +7,3 @@ function myMain(){
 }
 
 myMain();
-
-
-
