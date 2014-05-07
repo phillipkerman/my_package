@@ -1,3 +1,7 @@
 function myMain(){
-	//nothing
+	_.each([1, 2, 3], function(p){
+						console.log(p);
+					  });
 }
+
+myMain();
