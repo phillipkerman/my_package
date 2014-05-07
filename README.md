@@ -1,2 +1,2 @@
 my_package
-four score and...
+four score and whatever the guy said
