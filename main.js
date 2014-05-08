@@ -4,6 +4,7 @@ function myMain(){
 	for(var i=0, total=list.length; i<total; i++){
 		console.log(list[i]);
 	}	
+
 }
 
 myMain();
