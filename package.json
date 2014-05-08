@@ -1,0 +1,22 @@
+{
+  "name": "git_demo",
+  "version": "0.0.0",
+  "description": "This is my read me and I'm finally finished.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phillipkerman/my_package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillipkerman/my_package/issues"
+  },
+  "homepage": "https://github.com/phillipkerman/my_package",
+  "dependencies": {
+    "underscore": "^1.6.0"
+  }
+}
